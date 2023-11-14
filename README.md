@@ -1,4 +1,4 @@
-# RenewNAT
+# RenewNAT (AAAI 2023)
 Some codes are borrowed from GLAT (https://github.com/FLC777/GLAT).
 
 ### Requirements
